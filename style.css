@@ -83,6 +83,14 @@ body {
 
 }
 
+.digit > button {
+  background-color: rgb(165, 216, 168);
+}
+
+.operator > button {
+  background-color: rgb(83, 141, 97);
+}
+
 button {
   display: flex;
   justify-content: center;
